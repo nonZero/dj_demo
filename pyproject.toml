@@ -1,0 +1,13 @@
+[project]
+name = "dj-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django-extensions>=3.2.3",
+    "django>=5.1.2",
+    "faker>=30.3.0",
+    "ipython>=8.28.0",
+    "psycopg>=3.2.3",
+]
